@@ -1,4 +1,4 @@
-@import url(https://db.onlinewebfonts.com/c/b70d0982a8403ed3ac78c0d3df09c805?family=Have+Heart+One);
+@import url(//db.onlinewebfonts.com/c/b70d0982a8403ed3ac78c0d3df09c805?family=Have+Heart+One);
 /*@font-face {*/
 /*    font-family: "HaveHeartOne";*/
 /*    src: url("fonts/HaveHeartOne.otf") format("otf"),*/
@@ -6,7 +6,7 @@
 /*    font-weight: 400;*/
 /*}*/
 
-@font-face {font-family: "Have Heart One"; src: url("https://db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.eot"); src: url("https://db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.eot?#iefix") format("embedded-opentype"), url("https://db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.woff2") format("woff2"), url("https://db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.woff") format("woff"), url("https://db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.ttf") format("truetype"), url("https://db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.svg#Have Heart One") format("svg"); }
+@font-face {font-family: "Have Heart One"; src: url("//db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.eot"); src: url("//db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.woff") format("woff"), url("//db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.svg#Have Heart One") format("svg"); }
 
 @font-face {
     font-family: "Bjorn";
