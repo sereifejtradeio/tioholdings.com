@@ -11,12 +11,12 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="style.css" />
 
-   <link href="https://db.onlinewebfonts.com/c/b70d0982a8403ed3ac78c0d3df09c805?family=Have+Heart+One" rel="stylesheet" type="text/css"/>
+<!--   <link href="https://db.onlinewebfonts.com/c/b70d0982a8403ed3ac78c0d3df09c805?family=Have+Heart+One" rel="stylesheet" type="text/css"/>-->
 
     <title>TIO Groups. Marketing Company</title>
 </head>
 <body>
-    <nav class="navbar navbar-dark navCustom fixed-top mynav align-items-center justify-content-center ">
+    <nav class="navbar navbar-dark fixed-top align-items-center justify-content-center ">
         <a class="navbar-brand" href="#">
             <img src="images/tio-groups-logo-h.png" width="140" alt="tio groups logo">
         </a>
@@ -24,13 +24,13 @@
     <!-- 1sd section intro -->
     <section id="intro" class="view hm-black-strong">
         <div
-                class="container-fluid full-bg-img d-flex align-items-center justify-content-center  h-100"
+                class="container-fluid full-bg-img d-flex align-items-center justify-content-center h-100"
         >
             <div class="row d-flex justify-content-center">
                 <div
                         class="col-md-12 text-center align-items-center justify-content-center"
                 >
-                    <h1 class="font-bold text-white">
+                    <h1 class="font-bold text-white pt-5">
                         Marketing Company
 
                     </h1>
@@ -104,7 +104,7 @@
     <!-- Section 3 Mission and vision-->
     <section id="mission">
         <div class="container">
-            <div class="row  mb-5 pt-5 pb-5">
+            <div class="row  mb-5 pb-5">
                 <div
                         class="col-md-12 text-center align-items-center justify-content-center mt-5 text-white"
                 >
@@ -125,7 +125,7 @@
     <section id="clients">
         <div class="container">
             <div class="row pt-5 pb-5">
-                <div class="col-md-12 text-center align-items-center justify-content-center mt-5 text-white">
+                <div class="col-md-12 text-center align-items-center justify-content-center  text-white">
                     <h2>Our Clients</h2>
                 </div>
             </div>
