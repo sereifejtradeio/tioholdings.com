@@ -16,7 +16,7 @@
     <title>TIO Groups. Marketing Company</title>
 </head>
 <body>
-    <nav class="navbar navbar-dark bg-transparent align-items-center justify-content-center navCustom">
+    <nav class="navbar navbar-dark bg-transparent align-items-center justify-content-center navCustom fixed-top">
         <a class="navbar-brand" href="#">
             <img src="images/tio-groups-logo-h.png" width="140" alt="tio groups logo">
         </a>
