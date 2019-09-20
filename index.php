@@ -125,7 +125,7 @@
     <section id="clients">
         <div class="container">
             <div class="row pt-5 pb-5">
-                <div class="col-md-12 text-center align-items-center justify-content-center text-white">
+                <div class="col-md-12 text-center align-items-center justify-content-center mt-5 text-white">
                     <h2>Our Clients</h2>
                 </div>
             </div>
