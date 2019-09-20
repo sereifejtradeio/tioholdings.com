@@ -17,7 +17,11 @@
 /*    url("https://db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.woff") format("woff"), */
 /*    url("https://db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.ttf") format("truetype"), */
 /*    url("https://db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.svg#Have Heart One") format("svg"); }*/
-
+h1,
+h2
+{
+    font-family: "Have Heart One", sans-serif;
+}
 body {
     background: #161616;
     /*font-family: "Bjorn", sans-serif;*/
@@ -27,18 +31,9 @@ body,
 header{
     height: 100%;
 }
-
-h1,
-h2
-{
-    font-family: "Have Heart One", sans-serif;
-}
 /*h3,*/
 /*h4,h5{*/
 /*    font-family: "Bjorn", sans-serif;*/
-/*}*/
-/*.navCustom {*/
-/*    background:transparent;*/
 /*}*/
 h1{
     font-size: 175px;
