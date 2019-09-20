@@ -4,12 +4,12 @@
     url("fonts/HaveHeartOne.ttf") format("truetype");
     font-weight: 400;
 }
-@font-face {
-    font-family: "Bjorn";
-    src: url("fonts/Bjorn Regular.otf") format("opentype"),
-    url("fonts/HaveHeartOne.ttf") format("opentype");
-    font-weight: 400;
-}
+/*@font-face {*/
+/*    font-family: "Bjorn";*/
+/*    src: url("fonts/Bjorn%20Halftone.otf") format("opentype"),*/
+/*    url("fonts/Bjorn Regular") format("opentype");*/
+/*    font-weight: 400;*/
+/*}*/
 /*@import url(https://db.onlinewebfonts.com/c/b70d0982a8403ed3ac78c0d3df09c805?family=Have+Heart+One);*/
 /*@font-face {font-family: "Have Heart One"; src: url("https://db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.eot");*/
 /*    src: url("https://db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.eot?#iefix") format("embedded-opentype"), */
