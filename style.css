@@ -7,7 +7,6 @@
 /*}*/
 
 @font-face {font-family: "Have Heart One"; src: url("//db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.eot"); src: url("//db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.woff") format("woff"), url("//db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/b70d0982a8403ed3ac78c0d3df09c805.svg#Have Heart One") format("svg"); }
-
 @font-face {
     font-family: "Bjorn";
     src: url("fonts/Bjorn Regular.otf") format("opentype"),
@@ -65,8 +64,8 @@ h2{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    padding-top: 200px;
-    padding-bottom: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 .card-img-top{
     width: 100px;
@@ -80,8 +79,8 @@ h2{
     -o-background-size: cover;
     background-size: cover;
 
-    padding-top: 200px;
-    padding-bottom: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 #mission a{
     border-radius: 50px;
@@ -96,7 +95,8 @@ h2{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    padding-bottom: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 #clients .clients-images img{
     width: 500px;

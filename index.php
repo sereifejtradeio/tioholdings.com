@@ -18,7 +18,7 @@
 <body>
     <nav class="navbar navbar-dark bg-transparent align-items-center justify-content-center navCustom">
         <a class="navbar-brand" href="#">
-            <img src="images/tio-groups-logo.png" width="90" height="90" alt="tio groups logo">
+            <img src="images/tio-groups-logo-h.png" width="140" alt="tio groups logo">
         </a>
     </nav>
     <!-- 1sd section intro -->
@@ -51,7 +51,7 @@
         <div class="container">
             <div class="row mb-5 pt-5">
                 <div
-                        class="col-md-12 text-center text-white align-items-center justify-content-center mt-5 mb-3"
+                        class="col-md-12 text-center text-white align-items-center justify-content-center mt-5"
                 >
                     <h2>Our Services</h2>
                     <h5>
@@ -61,7 +61,7 @@
                 </div>
             </div>
 
-            <div class="row text-white mt-5 pt-5 pb-5">
+            <div class="row text-white mb-3">
                 <div class="col-lg-3 mb-3 text-center">
                     <div class="card-transparent">
                         <img class="card-img-top" src="images/content-icon.png" alt="" />
@@ -104,7 +104,7 @@
     <!-- Section 3 Mission and vision-->
     <section id="mission">
         <div class="container">
-            <div class="row mt-5 mb-5 pt-5 pb-5">
+            <div class="row  mb-5 pt-5 pb-5">
                 <div
                         class="col-md-12 text-center align-items-center justify-content-center mt-5 text-white"
                 >
@@ -125,7 +125,7 @@
     <section id="clients">
         <div class="container">
             <div class="row pt-5 pb-5">
-                <div class="col-md-12 text-center align-items-center justify-content-center mt-5 text-white">
+                <div class="col-md-12 text-center align-items-center justify-content-center text-white">
                     <h2>Our Clients</h2>
                 </div>
             </div>
