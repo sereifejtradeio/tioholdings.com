@@ -204,5 +204,23 @@
             // document ready
         });
     </script>
+    <script>
+        $(document).ready(function () {
+            var anchors = $('a');
+            var utmS = location.search;
+            Object.values(anchors).forEach(function (el, key) {
+                var item = String($(el).attr('href'));
+                if (!item.includes('#') && item !== 'undefined' && item !== "javascript:void(0)" && utmS.includes('utm') && item.includes('http')) {
+                    if (item.includes('?')) {
+                        var existingQueryString = item.match(/(\?)(.)+/g)[0].replace('?', '&');
+                        item = item.replace(item.match(/(\?)(.)+/g)[0], '');
+                        $(el).attr('href', item + utmS + existingQueryString);
+                    } else {
+                        $(el).attr('href', item + utmS);
+                    }
+                }
+            });
+        });'
+    </script>
 </body>
 </html>
