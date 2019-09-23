@@ -11,9 +11,25 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="style.css" />
 
-<!--   <link href="https://db.onlinewebfonts.com/c/b70d0982a8403ed3ac78c0d3df09c805?family=Have+Heart+One" rel="stylesheet" type="text/css"/>-->
-
     <title>TIO Groups. Marketing Company</title>
+    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+    <meta name="description" content="TIOgroups is a marketing and front-end development company offering specialist digital marketing services."/>
+    <meta name="og:title" content="TIO Groups. Marketing Company"/>
+    <meta name="og:type" content="marketing"/>
+    <meta name="og:url" content="https://tioholdings.com/"/>
+    <meta name="og:image" content="https://tioholdings.com/images/tio_groups_th.jpg">
+    <meta name="og:site_name" content="TIOgroups"/>
+    <meta name="og:description" content="TIOgroups is a marketing and front-end development company offering specialist digital marketing services."/>
+<!--    <meta property="fb:app_id" content="106919353416246"/>-->
+    <meta name="twitter:title" content="TIO Groups. Marketing Company">
+    <meta name="twitter:description" content="TIOgroups is a marketing and front-end development company offering specialist digital marketing services.">
+    <meta name="twitter:image" content="https://tioholdings.com/images/tio_groups_th.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+<!--    <meta name="twitter:site" content="@TradeToken">-->
+    <meta prefix="og:http://ogp.me/ns#" property="og:title" content="TIO Groups. Marketing Company"/>
+    <meta prefix="og:http://ogp.me/ns#" property="og:type" content="Marketing"/>
+    <meta prefix="og:http://ogp.me/ns#" property="og:image" content="https://tioholdings.com/images/tio_groups_th.jpg"/>
+    <meta prefix="og:http://ogp.me/ns#" property="og:url" content="https://tioholdings.com/"/>
 </head>
 <body>
     <nav class="navbar navbar-dark fixed-top align-items-center justify-content-center ">
