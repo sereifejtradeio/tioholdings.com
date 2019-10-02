@@ -130,12 +130,18 @@ h2{
 }
 
 #contact-us{
-    background: url("images/contact-us-background.jpg");
+    background: url("images/black-white-background.jpg") no-repeat fixed center;
+    /*background: url("images/contact-us-background.jpg");*/
     /*height: 100vh;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#contact-us a{
+    color: #fff;
 }
 #footer{
     background-color: #0f0f0f;

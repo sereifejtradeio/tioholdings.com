@@ -9,6 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="style.css" />
 
@@ -35,7 +36,8 @@
 <body>
     <nav class="navbar navbar-dark fixed-top align-items-center justify-content-center ">
         <a class="navbar-brand" href="#">
-            <img src="images/tio-groups-logo-h.png" width="140" alt="tio groups logo">
+<!--            <img src="images/tio-groups-logo-h.png" width="140" alt="tio groups logo">-->
+            <img src="images/tiogroup.png" width="140" alt="tio groups logo">
         </a>
     </nav>
     <!-- 1sd section intro -->
@@ -159,17 +161,27 @@
         </div>
     </section>
 
-<!--    <section id="contact-us">-->
-<!--        <div class="container">-->
-<!--            <div class="row pt-5 pb-5">-->
-<!--                <div class="col-md-12 text-center align-items-center justify-content-center mt-5 text-white">-->
-<!--                    <h2>Contact Us</h2>-->
-<!--                </div>-->
-<!--            </div>-->
+    <section id="contact-us">
+        <div class="container">
+            <div class="row pt-5 pb-5">
+                <div class="col-md-12 text-center align-items-center justify-content-center mt-5 mb-5 text-white">
+                    <h2>Contact Us</h2>
+                </div>
+                <div class="col-lg-4 text-center align-items-center justify-content-center mt-1 text-white">
+                    <p><i class="fa fa-envelope"></i> <strong>Email: </strong><a href="mailto:info@tiohodlings.com"> info@tiohodlings.com</a></p>
+                </div>
+                <div class="col-lg-4 text-center align-items-center justify-content-center mt-1 text-white">
+                    <p><i class="fa fa-phone-volume"></i> <strong>Call: </strong>00357 25251008</p>
+                </div>
+                <div class="col-lg-4 text-center align-items-center justify-content-center mt-1 text-white">
+
+                    <p><i class="fa fa-map-marker-alt"></i> <strong>Address: </strong> 80 Athinon Limassol 3040 Cyprus</p>
+                </div>
+            </div>
 
 
-<!--        </div>-->
-<!--    </section>-->
+        </div>
+    </section>
     <section id="footer">
         <div class="container">
             <div class="row justify-content-end">
