@@ -54,9 +54,6 @@
                         TOP PROVIDER OF DIGITAL MARKETING SERVICES ON CYPRUS
                     </h4>
                     <p class="text-white"><img src="images/LocationPin.png" alt="location"> Limassol</p>
-                    <div
-                            class="clock-builder-output d-flex justify-content-center"
-                    ></div>
                 </div>
             </div>
         </div>
@@ -71,8 +68,8 @@
                 >
                     <h2>Our Services</h2>
                     <h5>
-                        We are a marketing and front-end development company which offers specialist digital marketing services, via its headquarters in Limassol, Cyprus.
-
+<!--                        We are a marketing and front-end development company which offers specialist digital marketing services, via its headquarters in Limassol, Cyprus.-->
+                        Based out of our headquarters in Limassol, Cyprus, we are a marketing and front-end development company specialising in digital marketing.
                     </h5>
                 </div>
             </div>
@@ -82,7 +79,7 @@
                     <div class="card-transparent">
                         <img class="card-img-top" src="images/content-icon.png" alt="" />
                         <div class="card-body">
-                            <h5 class="card-title">Content and public relations</h5>
+                            <h5 class="card-title">Content and Public Relations</h5>
 
                         </div>
                     </div>
@@ -91,7 +88,7 @@
                     <div class="card-transparent">
                         <img class="card-img-top" src="images/events-services-icon.png" alt="" />
                         <div class="card-body">
-                            <h5 class="card-title">Events services</h5>
+                            <h5 class="card-title">Events Services</h5>
 
                         </div>
                     </div>
@@ -109,7 +106,7 @@
                     <div class="card-transparent">
                         <img class="card-img-top" src="images/digital-campaigns-icon.png" alt="" />
                         <div class="card-body">
-                            <h5 class="card-title">Digital organic and paid campaigns </h5>
+                            <h5 class="card-title">Digital Organic and Paid Campaigns </h5>
                         </div>
                     </div>
                 </div>
@@ -125,13 +122,14 @@
                         class="col-md-12 text-center align-items-center justify-content-center mt-5 text-white"
                 >
                     <h2>Our Mission and Vision</h2>
-                    <p>
-                        Our mission is to provide top tier marketing services, to drive both online and offline traffic, to foster global recognition, and thereby strengthen the branding and business operations of those who utilize our services.
-                    </p>
-                    <p>
-                        Our vision is to position ourselves as the top provider of digital marketing services in Cyprus.
-                        Contact us to discuss the co-operation.
-                    </p>
+                    <p>We aim to provide top-level marketing services to help drive both online & offline traffic, foster global recognition, and, ultimately, help to strengthen each of our clients' brand & business.</p>
+<!--                    <p>-->
+<!--                        Our mission is to provide top tier marketing services, to drive both online and offline traffic, to foster global recognition, and thereby strengthen the branding and business operations of those who utilize our services.-->
+<!--                    </p>-->
+<!--                    <p>-->
+<!--                        Our vision is to position ourselves as the top provider of digital marketing services in Cyprus.-->
+<!--                        Contact us to discuss the co-operation.-->
+<!--                    </p>-->
 <!--                    <a href="#" class="btn btn-secondary">Contact us</a>-->
                 </div>
             </div>
