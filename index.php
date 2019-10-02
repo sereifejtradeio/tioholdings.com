@@ -51,7 +51,7 @@
 
                     </h1>
                     <h4 class="lead text-white mb-5">
-                        TOP PROVIDER OF DIGITAL MARKETING SERVICES ON CYPRUS
+                        TOP PROVIDER OF DIGITAL MARKETING SERVICES IN CYPRUS
                     </h4>
                     <p class="text-white"><img src="images/LocationPin.png" alt="location"> Limassol</p>
                 </div>
