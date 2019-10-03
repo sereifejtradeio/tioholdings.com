@@ -147,8 +147,15 @@ h2{
     background-color: #0f0f0f;
     padding-top: 15px;
 }
+#footer .group-ltd{
+    text-align: unset;
+    margin-top: 10px;
+}
 #footer p{
     text-align: right;
+}
+#footer img{
+    width: 80px;
 }
 @media only screen and (max-width: 991px){
     #intro h1{

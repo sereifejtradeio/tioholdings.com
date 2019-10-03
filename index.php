@@ -185,8 +185,9 @@
     <section id="footer">
         <div class="container">
             <div class="row justify-content-end">
-                <div class="col-md-6">
-                    <a href="#"><img src="images/footer-logo.png" title="Tio Markets logo" alt="Tio Markets logo"></a>
+                <div class="col-md-6 text-muted">
+                    <a href="#"><img src="images/tiogroup.png"  alt="Tio Group"></a>
+                    <p class="group-ltd ">T.I.O. Group Holdings Ltd</p>
                 </div>
                 <div class="col-md-6 text-muted">
                     <p>All rights reserved, 2019</p>
