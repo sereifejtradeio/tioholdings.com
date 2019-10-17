@@ -69,9 +69,9 @@
                 <div
                         class="col-md-12 text-center text-white align-items-center justify-content-center mt-5"
                 >
-                    <h2>Our Services</h2>
+                    <h2>Top provider of digital marketing services in Cyprus</h2>
                     <h5>
-                        Top provider of digital marketing services in Cyprus
+<!--                        Top provider of digital marketing services in Cyprus-->
 <!--                        Based out of our headquarters in Limassol, Cyprus, we are a marketing and front-end development company specialising in digital marketing.-->
                     </h5>
                 </div>
