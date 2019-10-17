@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Merienda+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 /*@font-face {*/
 /*    font-family: "Have Heart One";*/
 /*    src: url("fonts/HaveHeartOne.otf") format("opentype"),*/
@@ -22,11 +23,13 @@ h1,
 h2
 {
     /*font-family: "Have Heart One", sans-serif;*/
-    font-family: 'Merienda One', cursive;
+    /*font-family: 'Merienda One', cursive;*/
+    font-family: 'Open Sans', sans-serif;
 }
 body {
     background: #161616;
     /*font-family: "Bjorn", sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
 }
 html,
 body,
@@ -81,6 +84,7 @@ h2{
     background-size: cover;
     /*padding-top: 50px;*/
     margin-top: 0;
+    padding-top: 100px;
     padding-bottom: 50px;
 }
 .card-img-top{

@@ -40,27 +40,27 @@
             <img src="images/tiogroup.png" width="140" alt="tio groups logo">
         </a>
     </nav>
-    <!-- 1sd section intro -->
-    <section id="intro" class="view hm-black-strong">
-        <div
-                class="container-fluid full-bg-img d-flex align-items-center justify-content-center h-100"
-        >
-            <div class="row d-flex justify-content-center">
-                <div
-                        class="col-md-12 text-center align-items-center justify-content-center"
-                >
-                    <h1 class="font-bold text-white pt-5">
-                        Marketing Company
-
-                    </h1>
-                    <h4 class="lead text-white mb-5">
-                        TOP PROVIDER OF DIGITAL MARKETING SERVICES IN CYPRUS
-                    </h4>
-                    <p class="text-white"><img src="images/LocationPin.png" alt="location"> Limassol</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    <!-- 1st section intro -->
+<!--    <section id="intro" class="view hm-black-strong">-->
+<!--        <div-->
+<!--                class="container-fluid full-bg-img d-flex align-items-center justify-content-center h-100"-->
+<!--        >-->
+<!--            <div class="row d-flex justify-content-center">-->
+<!--                <div-->
+<!--                        class="col-md-12 text-center align-items-center justify-content-center"-->
+<!--                >-->
+<!--                    <h1 class="font-bold text-white pt-5">-->
+<!--                        Marketing Company-->
+<!---->
+<!--                    </h1>-->
+<!--                    <h4 class="lead text-white mb-5">-->
+<!--                        TOP PROVIDER OF DIGITAL MARKETING SERVICES IN CYPRUS-->
+<!--                    </h4>-->
+<!--                    <p class="text-white"><img src="images/LocationPin.png" alt="location"> Limassol</p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </section>-->
 
     <!-- 2nd section gallery -->
     <section id="services">
@@ -71,8 +71,8 @@
                 >
                     <h2>Our Services</h2>
                     <h5>
-<!--                        We are a marketing and front-end development company which offers specialist digital marketing services, via its headquarters in Limassol, Cyprus.-->
-                        Based out of our headquarters in Limassol, Cyprus, we are a marketing and front-end development company specialising in digital marketing.
+                        Top provider of digital marketing services in Cyprus
+<!--                        Based out of our headquarters in Limassol, Cyprus, we are a marketing and front-end development company specialising in digital marketing.-->
                     </h5>
                 </div>
             </div>
