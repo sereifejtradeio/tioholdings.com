@@ -168,7 +168,7 @@
                     <h2>Contact Us</h2>
                 </div>
                 <div class="col-lg-4 text-center align-items-center justify-content-center mt-1 text-white">
-                    <p><i class="fa fa-envelope"></i> <strong>Email: </strong><a href="mailto:info@tiohodlings.com"> info@tiohodlings.com</a></p>
+                    <p><i class="fa fa-envelope"></i> <strong>Email: </strong><a href="mailto:info@tioholdings.com"> info@tioholdings.com</a></p>
                 </div>
                 <div class="col-lg-4 text-center align-items-center justify-content-center mt-1 text-white">
                     <p><i class="fa fa-phone-volume"></i> <strong>Call: </strong>00357 25251008</p>
