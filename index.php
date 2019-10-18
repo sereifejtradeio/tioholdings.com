@@ -15,16 +15,16 @@
 
     <title>TIO Groups. Marketing Company</title>
     <link rel="icon" href="images/favicon.png" type="image/x-icon">
-    <meta name="description" content="TIOgroups is a marketing and front-end development company offering specialist digital marketing services."/>
-    <meta name="og:title" content="TIO Groups. Marketing Company"/>
+    <meta name="description" content="Top provider of digital marketing services in Cyprus"/>
+    <meta name="og:title" content="TIO Groups."/>
     <meta name="og:type" content="marketing"/>
     <meta name="og:url" content="https://tioholdings.com/"/>
     <meta name="og:image" content="https://tioholdings.com/images/tio_groups_th.jpg">
     <meta name="og:site_name" content="TIOgroups"/>
-    <meta name="og:description" content="TIOgroups is a marketing and front-end development company offering specialist digital marketing services."/>
+    <meta name="og:description" content="Top provider of digital marketing services in Cyprus"/>
 <!--    <meta property="fb:app_id" content="106919353416246"/>-->
     <meta name="twitter:title" content="TIO Groups. Marketing Company">
-    <meta name="twitter:description" content="TIOgroups is a marketing and front-end development company offering specialist digital marketing services.">
+    <meta name="twitter:description" content="Top provider of digital marketing services in Cyprus">
     <meta name="twitter:image" content="https://tioholdings.com/images/tio_groups_th.jpg">
     <meta name="twitter:card" content="summary_large_image">
 <!--    <meta name="twitter:site" content="@TradeToken">-->
