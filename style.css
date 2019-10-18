@@ -126,6 +126,7 @@ h2{
     margin-bottom: 30px;
 }
 #clients .clients-images img:hover{
+
     border: 3px #636363 solid;
     border-radius: 15px;
 }
