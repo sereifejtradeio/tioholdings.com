@@ -13,22 +13,22 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="style.css" />
 
-    <title>TIO Groups.</title>
+    <title>TIO Group</title>
     <link rel="icon" href="images/favicon.png" type="image/x-icon">
     <meta name="description" content="Top provider of digital marketing services in Cyprus"/>
-    <meta name="og:title" content="TIO Group."/>
+    <meta name="og:title" content="TIO Group"/>
     <meta name="og:type" content="marketing"/>
     <meta name="og:url" content="https://tioholdings.com/"/>
     <meta name="og:image" content="https://tioholdings.com/images/tio_groups_th.jpg">
     <meta name="og:site_name" content="TIOgroup"/>
     <meta name="og:description" content="Top provider of digital marketing services in Cyprus"/>
 <!--    <meta property="fb:app_id" content="106919353416246"/>-->
-    <meta name="twitter:title" content="TIO Group.">
+    <meta name="twitter:title" content="TIO Group">
     <meta name="twitter:description" content="Top provider of digital marketing services in Cyprus">
     <meta name="twitter:image" content="https://tioholdings.com/images/tio_groups_th.jpg">
     <meta name="twitter:card" content="summary_large_image">
 <!--    <meta name="twitter:site" content="@TradeToken">-->
-    <meta prefix="og:http://ogp.me/ns#" property="og:title" content="TIO Group."/>
+    <meta prefix="og:http://ogp.me/ns#" property="og:title" content="TIO Group"/>
     <meta prefix="og:http://ogp.me/ns#" property="og:type" content="Marketing"/>
     <meta prefix="og:http://ogp.me/ns#" property="og:image" content="https://tioholdings.com/images/tio_groups_th.jpg"/>
     <meta prefix="og:http://ogp.me/ns#" property="og:url" content="https://tioholdings.com/"/>
