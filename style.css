@@ -58,6 +58,17 @@ h2{
 .bg-dark img{
     width: 80px;
 }
+#under-construction {
+    background: url("images/black-white-background.jpg") no-repeat fixed center;
+    height: 100vh;
+    font-family: "Montserrat", sans-serif;
+    -webkit-background-size: auto;
+    -moz-background-size: auto;
+    -o-background-size: auto;
+    background-size: auto;
+
+
+}
 #intro {
     background: url("images/black-white-background.jpg") no-repeat fixed center;
     height: 100vh;
