@@ -1,0 +1,61 @@
+html,
+body{
+    background-color: #000000;
+}
+h1,h2,h3,h4,h5,p{
+    color: #A1A1A1;
+}
+.accent{
+    color: #F26C4F;
+}
+.tio-title-2-white{
+    font-size: 30px;
+    font-weight: 600;
+    color: #ffffff;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+.tio-align-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tio-link{
+    color: #F26C4F;
+    font-weight: 600;
+}
+
+.primary-cta {
+    border: 2px solid #F26C4F;
+    border-radius: 0;
+    width: 180px;
+    padding: 10px 20px;
+    display: block;
+    background: linear-gradient(to right, #F26C4F 50%, #000000 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all .5s ease-out;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.primary-cta:hover {
+    background-position: left bottom;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+@media (max-width: 991px) {
+    h1{
+        font-size: 25px !important;
+        line-height: 28px !important;
+
+    }
+    .tio-title-2-white{
+        font-size: 22px;
+        line-height: 24px;
+    }
+}

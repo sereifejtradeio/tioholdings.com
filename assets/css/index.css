@@ -1,0 +1,248 @@
+span{
+    color: red
+}
+
+@keyframes caret {
+    50% {
+        border-color: transparent;
+    }
+}
+#hero{
+    /*height: 100vh;*/
+    min-height: 600px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+#hero:before{
+    content: '';
+    background-image: url("../images/index/accent-wave.svg");
+    background-size: cover;
+    top: -120px;
+    right: 0;
+    position: absolute;
+    width: 340px;
+    height: 385px;
+    z-index: 1;
+}
+#hero .left-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#hero .left-content:after{
+    position: absolute;
+    content: '';
+    /*background-image: url("../images/index/header-bg.png");*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    max-width: 869px;
+    width: 100%;
+    height: 590px;
+}
+#hero .right-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 420px;
+    margin: auto;
+    z-index: 2;
+}
+#hero h1{
+    color: #ffffff;
+    font-size: 40px;
+    text-transform: uppercase;
+    line-height: 50px;
+    margin-bottom: 40px;
+    z-index: 2;
+}
+
+#global-markets{
+    padding-top: 70px;
+    padding-bottom: 90px;
+}
+#global-markets h2{
+    margin-bottom: 80px;
+}
+#global-markets .border-bit{
+    width: 50px;
+    height: 2px;
+    background-color: #252525;
+}
+#global-markets .h-bit,
+#global-markets .s-bit,
+#global-markets .d-bit{
+    position: relative;
+    padding-left: 60px;
+}
+#global-markets .h-bit:after{
+    content: 'H';
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: -5px;
+    left: -19px;
+    color: #252525;
+    font-size: 50px;
+    font-weight: 700;
+    -webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+#global-markets .s-bit:after{
+    content: 'S';
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: -5px;
+    left: -19px;
+    color: #252525;
+    font-size: 50px;
+    font-weight: 700;
+    -webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+#global-markets .d-bit:after{
+    content: 'D';
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: -5px;
+    left: -19px;
+    color: #252525;
+    font-size: 50px;
+    font-weight: 700;
+    -webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+#global-markets h3{
+    color: #A1A1A1;
+    padding-top: 10px;
+}
+#global-markets p{
+    color: #A1A1A1;
+    max-width: 220px;
+    line-height: 28px;
+    font-size: 14px;
+}
+
+#barriers{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+#barriers h2{
+    margin-bottom: 70px;
+}
+#barriers .right-content{
+    max-width: 350px;
+    margin: auto;
+}
+#barriers .right-content h3 {
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+#barriers .right-content p{
+    margin-bottom: 20px;
+}
+
+#educate{
+    padding-top: 50px;
+    padding-bottom: 90px;
+}
+#educate h2{
+    margin-bottom: 30px;
+}
+#educate .blog-section{
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+}
+#educate .title-section p{
+    margin-bottom: 50px;
+    height: auto;
+}
+#educate p{
+    max-width: 650px;
+    margin: 15px auto 10px;
+    text-align: center;
+    height: 60px;
+}
+#educate a{
+    text-align: center;
+    color: #F26C4F;
+    text-decoration: none;
+    border-bottom: 1px solid #F26C4F;
+    margin: 20px auto 10px;
+    display: table;
+}
+#educate .blog-epilogue{
+    margin-top: 50px;
+}
+#educate .blog-epilogue p{
+    margin-top: 35px;
+    font-weight: 600;
+}
+#educate .blog-epilogue:before{
+    content: '';
+    width: 1px;
+    height: 25px;
+    background-color: #555555;
+    position: absolute;
+    left: 50%;
+    margin-left: -1px;
+    top: 0;
+}
+
+@media (max-width: 991px) {
+    #hero:before{
+        display: none;
+    }
+    #hero{
+        text-align: center;
+        margin: auto;
+        padding-bottom: 50px;
+    }
+    #hero .cta{
+        text-align: center;
+        margin: auto;
+        display: inline-block;
+    }
+    .h-bit,
+    .s-bit,
+    .d-bit{
+        margin: auto;
+        max-width: 325px;
+        width: 100%;
+    }
+    #global-markets{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    #barriers h2{
+        margin-bottom: 30px;
+    }
+    #barriers .right-content{
+        max-width: 100%;
+        margin: 20px auto;
+        width: 100%;
+    }
+    #barriers{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    #educate .blog-section{
+        margin-bottom: 50px;
+    }
+    #educate .blog-epilogue p{
+        height: 80px;
+    }
+}

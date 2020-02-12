@@ -1,0 +1,33 @@
+nav.navbar{
+    background-color: transparent;
+    z-index: 100;
+    padding-top: 35px;
+    max-width: 1200px;
+    margin: auto;
+    position: relative;
+}
+.navbar-brand img{
+    width: 230px;
+    height: auto;
+}
+a.nav-link{
+    color: #ffffff;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+@media (max-width: 991px){
+    nav.navbar{
+        background-color: #000000;
+        padding: 10px 30px;
+    }
+    #navbarNav{
+        border-top: 1px solid #6f6f6f;
+        margin-top: 10px;
+    }
+    .navbar-brand img{
+        width: 170px;
+    }
+}
