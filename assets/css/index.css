@@ -175,6 +175,7 @@ span{
     margin: 15px auto 10px;
     text-align: center;
     height: 60px;
+    text-transform: capitalize;
 }
 #educate a{
     text-align: center;

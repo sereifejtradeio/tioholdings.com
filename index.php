@@ -82,7 +82,7 @@ include_once('includes/navigation-bar.php');
             <div class="col-lg-4 d-bit">
                 <div class="border-bit"></div>
                 <h3>Diversification</h3>
-                <p>Through our technologies we offer multiple investment opportunities</p>
+                <p>Through our technologies, we offer multiple investment opportunities</p>
             </div>
         </div>
     </div>
@@ -103,8 +103,8 @@ include_once('includes/navigation-bar.php');
                         </div>
                         <div class="col-lg-6 order-2 order-lg-2 tio-align-center right-content">
                             <div>
-                                <h3>Low cost trading</h3>
-                                <p>High barriers to entry are not an issues that our clients face. Through our FX arm, traders can enrol in low cost subscription packages, regardless of their portfolio size.</p>
+                                <h3>Low-cost trading</h3>
+                                <p>High barriers to entry are not issues that our clients face. Through our FX arm, traders can enrol in low-cost subscription packages, regardless of their portfolio size.</p>
                                 <a href="companies" class="primary-cta">Find out more</a>
                             </div>
                         </div>
@@ -119,7 +119,7 @@ include_once('includes/navigation-bar.php');
                         <div class="col-lg-6 order-2 order-lg-1 tio-align-center right-content">
                             <div>
                                 <h3>Invest in a Forex broker</h3>
-                                <p>We are one of the first brokerages to offer investors the opportunity benefit from the profitability of the firm, through our lending facility.</p>
+                                <p>We are one of the first brokerages to offer investors the opportunity to benefit from the profitability of the firm, through our lending facility.</p>
                                 <a href="companies" class="primary-cta">Find out more</a>
                             </div>
                         </div>
@@ -140,7 +140,7 @@ include_once('includes/navigation-bar.php');
                         <div class="col-lg-6 order-2 order-lg-2 tio-align-center right-content">
                             <div>
                                 <h3>Educational support</h3>
-                                <p>We understand that properly educating our clients about the risks of trading is an absolute necessity. We offer a range of attractive and informative educational resources for clients of all levels</p>
+                                <p>We understand that properly educating our clients about the risks of trading is an absolute necessity. We offer a range of attractive and informative educational resources for clients of all levels.</p>
                                 <a href="companies" class="primary-cta">Find out more</a>
                             </div>
                         </div>
@@ -157,7 +157,7 @@ include_once('includes/navigation-bar.php');
         <div class="row">
             <div class="col-lg-12 title-section">
                 <h2 class="tio-title-2-white">WE EDUCATE</h2>
-                <p>The global financial markets offer opportunity for loss as well as profit. <br>We consider it our obligation to ensure that our clientele are fully cognisant of any risks, while providing information that will assist in making informed financial decisions.</p>
+                <p>The global financial markets offer an opportunity for loss as well as profit. <br>We consider it our obligation to ensure that our clientele is fully cognisant of any risks while providing information that will assist in making informed financial decisions.</p>
             </div>
             <div class="col-lg-3 col-md-6 blog-section">
                 <img src="assets/images/index/blog-1.png" class="mx-auto img-fluid" alt="">
