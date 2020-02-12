@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373b40a7-46a3-4fc5-a80f-bb2ce8316371" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/fonts/Bjorn Halftone.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Bjorn Light.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Bjorn Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/HaveHeartOne.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/HaveHeartOne.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/LocationPin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/arrow-down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/arrow-left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/arrow-right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/black-white-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/contact-us-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/content-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/digital-campaigns-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events-services-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/footer-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/graphic-design-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/insta.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/our-services-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/purple-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/telegram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tio-groups-logo-h.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tio-groups-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tio-man-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tio_groups_th.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tiogroup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tiomarkets-image-logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tiomarkets-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tiomarkets-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tradeio-image-logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tradeio-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tradeio-logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old-index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="739">
-              <caret line="184" column="53" selection-start-line="184" selection-start-column="53" selection-end-line="184" selection-end-column="53" />
+            <state relative-caret-position="518">
+              <caret line="180" column="18" selection-start-line="180" selection-start-column="18" selection-end-line="180" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -200,12 +163,12 @@
       <workItem from="1571319297978" duration="857000" />
       <workItem from="1571397603360" duration="4656000" />
       <workItem from="1581323503460" duration="2364000" />
-      <workItem from="1581497977516" duration="12518000" />
+      <workItem from="1581497977516" duration="12856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12518000" />
+    <option name="totallyTimeSpent" value="12856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -348,8 +311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="184" column="53" selection-start-line="184" selection-start-column="53" selection-end-line="184" selection-end-column="53" />
+        <state relative-caret-position="518">
+          <caret line="180" column="18" selection-start-line="180" selection-start-column="18" selection-end-line="180" selection-end-column="18" />
         </state>
       </provider>
     </entry>

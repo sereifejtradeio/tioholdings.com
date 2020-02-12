@@ -179,7 +179,6 @@ include_once('includes/navigation-bar.php');
                 <p>Pound weakens as investors brace for political turmoil</p>
                 <a href="https://blog.tiomarkets.com/news/sterling-falls-after-weak-inflation-data/" class="tio-link" target="_blank">Read More</a>
             </div>
-
             <div class="col-lg-12 blog-epilogue">
                 <p>Our blog provides factual and analytical information about global news events and trends that can impact on financial trading.</p>
                 <a href="https://blog.tiomarkets.com/" class="tio-link" target="_blank">Visit our blog</a>
