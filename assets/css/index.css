@@ -166,6 +166,15 @@ span{
     margin: auto;
     display: inline-block;
 }
+#educate .blog-section img{
+    filter: grayscale(90%);
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+}
+#educate .blog-section img:hover{
+    filter: grayscale(0%);
+}
 #educate .title-section p{
     margin-bottom: 50px;
     height: auto;
@@ -177,13 +186,20 @@ span{
     height: 60px;
     text-transform: capitalize;
 }
-#educate a{
+#educate a.tio-link{
     text-align: center;
     color: #F26C4F;
     text-decoration: none;
     border-bottom: 1px solid #F26C4F;
     margin: 20px auto 10px;
     display: table;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+}
+#educate a.tio-link:hover{
+    color: #ffffff;
+    border-color: #ffffff;
 }
 #educate .blog-epilogue{
     margin-top: 50px;

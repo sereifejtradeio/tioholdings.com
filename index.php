@@ -160,22 +160,30 @@ include_once('includes/navigation-bar.php');
                 <p>The global financial markets offer an opportunity for loss as well as profit. <br>We consider it our obligation to ensure that our clientele is fully cognisant of any risks while providing information that will assist in making informed financial decisions.</p>
             </div>
             <div class="col-lg-3 col-md-6 blog-section">
-                <img src="assets/images/index/blog-1.png" class="mx-auto img-fluid" alt="">
+                <a href="https://blog.tiomarkets.com/education/4-things-you-should-do-before-you-trade-every-morning/" target="_blank">
+                    <img src="assets/images/index/blog-1.png" class="mx-auto img-fluid" alt="">
+                </a>
                 <p>4 Things You Should Do Before You Trade Every Morning</p>
                 <a href="https://blog.tiomarkets.com/education/4-things-you-should-do-before-you-trade-every-morning/" class="tio-link" target="_blank">Read More</a>
             </div>
             <div class="col-lg-3 col-md-6 blog-section">
-                <img src="assets/images/index/blog-2.png" class="mx-auto img-fluid" alt="">
+                <a href="https://blog.tiomarkets.com/company-news/pamm-an-innovation-for-both-beginners-and-experienced-traders/" target="_blank">
+                    <img src="assets/images/index/blog-2.png" class="mx-auto img-fluid" alt="">
+                </a>
                 <p>PAMM – an innovation for both beginners and experienced traders</p>
                 <a href="https://blog.tiomarkets.com/company-news/pamm-an-innovation-for-both-beginners-and-experienced-traders/" class="tio-link" target="_blank">Read More</a>
             </div>
             <div class="col-lg-3 col-md-6 blog-section">
-                <img src="assets/images/index/blog-3.png" class="mx-auto img-fluid" alt="">
+                <a href="https://blog.tiomarkets.com/news/dollar-edges-higher-while-german-stocks-hit-record-high/" target="_blank">
+                    <img src="assets/images/index/blog-3.png" class="mx-auto img-fluid" alt="">
+                </a>
                 <p>Dollar Edges Higher, While German Stocks Hit Record High</p>
                 <a href="https://blog.tiomarkets.com/news/dollar-edges-higher-while-german-stocks-hit-record-high/" class="tio-link" target="_blank">Read More</a>
             </div>
             <div class="col-lg-3 col-md-6 blog-section">
-                <img src="assets/images/index/blog-4.png" class="mx-auto img-fluid" alt="">
+                <a href="https://blog.tiomarkets.com/news/sterling-falls-after-weak-inflation-data/" target="_blank">
+                    <img src="assets/images/index/blog-4.png" class="mx-auto img-fluid" alt="">
+                </a>
                 <p>Pound weakens as investors brace for political turmoil</p>
                 <a href="https://blog.tiomarkets.com/news/sterling-falls-after-weak-inflation-data/" class="tio-link" target="_blank">Read More</a>
             </div>

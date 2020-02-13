@@ -73,6 +73,13 @@
     text-transform: uppercase;
     letter-spacing: 3px;
     font-size: 11px;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+    text-decoration: none;
+}
+#companies a.tio-link:hover{
+    color: #ffffff;
 }
 #companies .asset-col{
     margin-bottom: 70px;
