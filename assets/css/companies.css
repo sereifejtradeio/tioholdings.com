@@ -6,17 +6,17 @@
     position: relative;
     background-color: #000000;
 }
-#hero:before{
-    content: '';
-    background-image: url("../images/about/hero-after.svg");
-    background-size: cover;
-    top: -115px;
-    right: 0;
-    position: absolute;
-    width: 329px;
-    height: 522px;
-    z-index: 1;
-}
+/*#hero:before{*/
+/*    content: '';*/
+/*    background-image: url("../images/about/hero-after.svg");*/
+/*    background-size: cover;*/
+/*    top: -115px;*/
+/*    right: 0;*/
+/*    position: absolute;*/
+/*    width: 329px;*/
+/*    height: 522px;*/
+/*    z-index: 1;*/
+/*}*/
 
 #hero .left-content{
     display: flex;
@@ -96,9 +96,9 @@
     #companies p {
         height: auto;
     }
-    #hero:before{
-        display: none;
-    }
+    /*#hero:before{*/
+    /*    display: none;*/
+    /*}*/
     #hero {
         min-height: 360px;
     }
