@@ -97,7 +97,14 @@
 .grey{
     color: #a8a8a8;
 }
-@media (max-width: 991px){
+@media only screen and (max-width: 991px){
+    #hero{
+        height: unset;
+        min-height: 600px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+
+    }
     #hero:before{
         display: none;
     }

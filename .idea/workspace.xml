@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373b40a7-46a3-4fc5-a80f-bb2ce8316371" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/assets/css/companies.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/companies.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,10 +176,17 @@
       <workItem from="1571314576375" duration="2487000" />
       <workItem from="1571319297978" duration="857000" />
       <workItem from="1571397603360" duration="4656000" />
+<<<<<<< Updated upstream
       <workItem from="1581323503460" duration="2364000" />
       <workItem from="1581497977516" duration="14684000" />
       <workItem from="1581520563589" duration="441000" />
       <workItem from="1581576071591" duration="2049000" />
+=======
+      <workItem from="1581323503460" duration="3159000" />
+      <workItem from="1581339909203" duration="12000" />
+      <workItem from="1581417523032" duration="869000" />
+      <workItem from="1581518670531" duration="603000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
