@@ -2,28 +2,28 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
-    <title>TIO Group</title>
+    <title>TIO Holdings</title>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Top provider of digital marketing services in Cyprus"/>
-    <meta name="og:title" content="TIO Group"/>
+    <meta name="description" content="Using fintech to enable access to the global financial markets."/>
+    <meta name="og:title" content="TIO Holdings"/>
     <meta name="og:type" content="marketing"/>
     <meta name="og:url" content="https://tioholdings.com/"/>
     <meta name="og:image" content="https://tioholdings.com/images/tio_groups_th.jpg">
     <meta name="og:site_name" content="TIOgroup"/>
-    <meta name="og:description" content="Top provider of digital marketing services in Cyprus"/>
+    <meta name="og:description" content="Using fintech to enable access to the global financial markets."/>
     <meta property="fb:app_id" content=""/>
-    <meta name="twitter:title" content="TIO Group">
-    <meta name="twitter:description" content="Top provider of digital marketing services in Cyprus">
+    <meta name="twitter:title" content="TIO Holdings">
+    <meta name="twitter:description" content="Using fintech to enable access to the global financial markets.">
     <meta name="twitter:image" content="https://tioholdings.com/images/tio_groups_th.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="">
-    <meta prefix="og:http://ogp.me/ns#" property="og:title" content="TIO Group"/>
+    <meta prefix="og:http://ogp.me/ns#" property="og:title" content="TIO Holdings"/>
     <meta prefix="og:http://ogp.me/ns#" property="og:type" content="website"/>
     <meta prefix="og:http://ogp.me/ns#" property="og:image" content="https://tioholdings.com/images/tio_groups_th.jpg"/>
     <meta prefix="og:http://ogp.me/ns#" property="og:url" content="https://tioholdings.com/"/>
-    <meta name="description" content="Top provider of digital marketing services in Cyprus">
+    <meta name="description" content="Using fintech to enable access to the global financial markets.">
     <meta name="author" content="TIOholdings">
     <meta name="theme-color" content="#ff7a04"/>
 
